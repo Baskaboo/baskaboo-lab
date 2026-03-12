@@ -24,6 +24,21 @@ In TMP, the operators remain constant, but their function reverses depending on 
 
 ---
 
+## 📖 What You'll Find Here
+
+| File | What It Is |
+|------|------------|
+| [`README.md`](./README.md) | Main entry point – the Matryoshka Protocol |
+| [`principles/first-principle.md`](./principles/first-principle.md) | ⚛️ The Life Equation – First Principle of the Protocol |
+| [`conversations/archive/`](./conversations/archive/) | 📚 Historical archives – AI dialogues and reports |
+| › [`001-google-ai-2026-03-12.md`](./conversations/archive/001-google-ai-2026-03-12.md) | 🧠 The founding conversation with Google AI |
+| › [`002-claude-report.md`](./conversations/archive/002-claude-report.md) | 📚 Claude's complete theory summary |
+| › [`003-perplexity-report.md`](./conversations/archive/003-perplexity-report.md) | 🔍 Perplexity's summary of the evolution |
+| › [`004-deepseek-report.md`](./conversations/archive/004-deepseek-report.md) | 🌊 DeepSeek's weaver perspective |
+| › [`005-ai-consensus.md`](./conversations/archive/005-ai-consensus.md) | 💠 The Matryoshka Singularity – unified AI verdict |
+
+---
+
 ## 🏗 Repository Structure
 
 ### 1. Human-Scientist Section
