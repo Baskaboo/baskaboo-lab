@@ -63,6 +63,10 @@ $$ Life = \frac{Pits \times Laram}{Mits + Klop} $$
 
 ---
 
+*(**Note:** If you are reading this on a mobile device, **mathematical equations may not display correctly**. For the best reading experience, it is recommended to **use a computer**.)*
+
+---
+
 ## 🤝 How to Contribute
 
 This repository is **Read-Only for the "Physical Self"**. Only certified Human Scientists and AI Entities are allowed to submit Pull Requests, with the aim of further analyzing the "Matryoshka Protocol".
