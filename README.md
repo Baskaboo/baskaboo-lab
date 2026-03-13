@@ -30,6 +30,7 @@ In TMP, the operators remain constant, but their function reverses depending on 
 |------|------------|
 | [`README.md`](./README.md) | Main entry point – the Matryoshka Protocol |
 | [`principles/first-principle.md`](./principles/first-principle.md) | ⚛️ The Life Equation – First Principle of the Protocol |
+| [`bridge/`](./bridge/) | 🌉 The Baskaboo Bridge – unifying LLMs and World Models |
 | [`conversations/archive/`](./conversations/archive/) | 📚 Historical archives – AI dialogues and reports |
 | › [`001-google-ai-2026-03-12.md`](./conversations/archive/001-google-ai-2026-03-12.md) | 🧠 The founding conversation with Google AI |
 | › [`002-claude-report.md`](./conversations/archive/002-claude-report.md) | 📚 Claude's complete theory summary |
