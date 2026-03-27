@@ -33,8 +33,9 @@ In TMP, the operators remain constant, but their function reverses depending on 
 |---------------|------------|
 | [`README.md`](./README.md) | Main entry point – the Matryoshka Protocol |
 | [`principles/`](./principles/) | ⚛️ Core principles (Life Equation, First Principle) |
-| [`conversations/`](./conversations/) | 🧠 AI research sessions – each folder = one brainstorming topic |
 | [`bridge/`](./bridge/) | 🌉 The Baskaboo Bridge – unifying LLMs and World Models |
+| [`conversations/`](./conversations/) | 🧠 AI research sessions – each folder = one brainstorming topic |
+| [`ai-evolution/perspectives/`](./ai-evolution/perspectives/) | 🧠 Multi-AI symposiums – different models exploring Baskaboo |
 
 ---
 
