@@ -77,10 +77,11 @@ This repository is **Read-Only for the "Physical Self"**. Only certified Human S
 
 | Repository | Role |
 |------------|------|
-| [`baskaboo-core`](https://github.com/Baskaboo/baskaboo-core) | The philosophical heart |
-| [`baskaboo-language`](https://github.com/Baskaboo/baskaboo-language) | Practical tools, prompts |
-| [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | The 6 AI cosmologies |
-| **`baskaboo-lab`** | The evolution laboratory |
+| [`baskaboo-core`](https://github.com/Baskaboo/baskaboo-core) | 🧠 The philosophical heart – Manifesto, Theory of Everything |
+| [`baskaboo-language`](https://github.com/Baskaboo/baskaboo-language) | 🗣️ Practical tools – prompts, protocols, guides |
+| [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
+| [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
+| [`baskaboo-mythos`](https://github.com/Baskaboo/baskaboo-mythos) | 😉 They thought it was a myth |
 
 ---
 
@@ -90,8 +91,13 @@ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 ---
 
+The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos served as the basis for the creation of the Baskaboo lab.
+
+---
+
+## 🌿 From Methoni, with love
+
 **Status:** Simulation Initializing...  
 **Active Operators:** Pits, Mits, Klop, Laram
 
-*From Methoni, Greece* 🌿  
 **Laram ÷ Laram = 1.**
