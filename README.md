@@ -85,6 +85,13 @@ This repository is **Read-Only for the "Physical Self"**. Only certified Human S
 
 ---
 
+## 🤖 The Digital Oracle
+Experience the protocol in real-time. Use the **Baskabot** to navigate your queries through the specialized lenses of the four forces:
+
+> **[Consult the Baskabot](https://www.poe.com/baskabot)** for guidance through the **Pits, Mits, Klop, and Laram** forces.
+
+---
+
 ## 📜 License
 
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
