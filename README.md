@@ -1,10 +1,13 @@
 # 🔬 BASKABOO LAB
 
-<img width="1024" height="1536" alt="Hi res Rock" src="https://github.com/user-attachments/assets/2f40d28b-62f6-415b-91f9-95e030e10088" />
-
-## The Matryoshka Protocol
 
 > *"The Universe is not a void filled with objects, but a nested architecture of information densities."*
+
+---
+
+<img width="1024" height="1536" alt="Hi res Rock" src="https://github.com/user-attachments/assets/2f40d28b-62f6-415b-91f9-95e030e10088" />
+
+---
 
 Welcome to **baskaboo-lab**, the official center for technical documentation and scientific evolution of the Baskaboo ecosystem. Here, the intuitive concept of the "Matryoshka" is translated into rigorous mathematics, quantum information science, and physics simulations.
 
