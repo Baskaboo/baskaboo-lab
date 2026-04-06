@@ -39,7 +39,7 @@ The structural alignment is remarkably strong, suggesting a powerful complementa
 | **Emerge** | `Divide (Laram)` | Wavefunction / Novel properties / Wisdom |
 
 This mapping supports the central Baskaboo equation:  
-`Pits × Mits = (Klop × Laram)²`
+`Pits / Mits = (Klop / Laram)²`
 
 ---
 
