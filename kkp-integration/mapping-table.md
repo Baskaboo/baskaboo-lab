@@ -17,10 +17,12 @@ This table presents the **convergence** between the two frameworks, showing how 
 
 ## Central Equation (Baskaboo)
 
-$$ Pits \times Mits = (Klop \times Laram)^2 $$
+$$ \frac{Pits}{Mits} = \left(\frac{Klop}{Laram}\right)^2 $$
 
-- **Left side** → Classical world (gravity emerges from Energy‑Matter relation)
-- **Right side** → Quantum world (spacetime as bridge)
+- **Left side** → `Pits/Mits` – the ratio of Energy to Matter (classical gravity emerges from this tension)
+- **Right side** → `(Klop/Laram)²` – the square of the Space/Time ratio (spacetime as bridge)
+
+This form directly mirrors Einstein’s \( E/m = (s/t)^2 \), where the speed of light \( c \) is reinterpreted as the ratio of Space over Time.
 
 ---
 
