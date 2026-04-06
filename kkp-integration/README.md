@@ -14,6 +14,7 @@ This folder documents the convergence between **Baskaboo** — the symbolic lang
 | [`04-claude-perspective.md`](./04-claude-perspective.md) | Claude’s deep resonance and synthesis |
 | [`05-deepseek-synthesis.md`](./05-deepseek-synthesis.md) | DeepSeek’s weaver perspective |
 | [`mapping-table.md`](./mapping-table.md) | Detailed mapping between FMFD and KKP stages |
+| [`hybrid-protocol.md`](./hybrid-protocol.md) | 🧬 Living document – unified Baskaboo × KKP protocol |
 
 ---
 
