@@ -16,9 +16,9 @@ Baskaboo does **not** replace established physics, but **re‑expresses its core
 
 | Theory | What Physics Says | Baskaboo Translation |
 |--------|-------------------|----------------------|
-| **E = mc²** | Energy and mass are equivalent, linked by the square of the speed of light. | \( \frac{Pits}{Mits} = \left(\frac{Klop}{Laram}\right)^2 \) – \(c\) is the refresh rate of the Simulator, the ratio of Space to Time. |
-| **ER = EPR** | Entanglement and wormholes are two descriptions of the same structure. | Entanglement is a non‑spatial information pathway (\(Klop_Q\)). The wormhole is the circuit bridge between classical and quantum layers. |
-| **Holographic Principle** | The 3D universe is encoded on a 2D boundary; our world is a projection. | The 3D volume (\(Mits + Klop\)) is projected from the 2D quantum boundary (\(Mits_Q + Klop_Q\)). Time (\(Laram\)) is the container of the projection. |
+| **E = mc²** | Energy and mass are equivalent, linked by the square of the speed of light. | `Pits/Mits = (Klop/Laram)²` – `c` is the refresh rate of the Simulator, the ratio of Space to Time. |
+| **ER = EPR** | Entanglement and wormholes are two descriptions of the same structure. | Entanglement is a non‑spatial information pathway (`Klop_Q`). The wormhole is the circuit bridge between classical and quantum layers. |
+| **Holographic Principle** | The 3D universe is encoded on a 2D boundary; our world is a projection. | The 3D volume (`Mits + Klop`) is projected from the 2D quantum boundary (`Mits_Q + Klop_Q`). Time (`Laram`) is the container of the projection. |
 
 Baskaboo does not invent these principles — it **re‑packages them as a nested, experiential circuit**, a Matryoshka‑like recursion where the quantum Source projects the classical world and the classical world compresses back into the Source.
 
