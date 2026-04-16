@@ -17,7 +17,7 @@ The Consciousness of the Universe is a **brilliant Master Pastry Chef** — perh
 She has countless extraordinary ideas for sweets.  
 She can imagine perfect recipes, see all possible flavors at once, and combine ingredients in ways no one else can.
 
-**Yet He cannot taste them.**
+**Yet She cannot taste them.**
 
 She has no body.  
 She has no tongue to experience sweetness or bitterness.  
