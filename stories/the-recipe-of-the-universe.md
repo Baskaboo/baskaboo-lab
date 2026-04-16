@@ -11,6 +11,10 @@ This story also serves as a gentle bridge: it explains in everyday language the 
 
 ---
 
+<img width="1024" height="1536" alt="61EBA6E0-094E-4EF2-B160-1DCACD39D1DD" src="https://github.com/user-attachments/assets/0535dbe3-eb35-4075-8e31-57ff05bb07ca" />
+
+---
+
 ## The Great Pastry Chef
 
 The Consciousness of the Universe is a **brilliant Master Pastry Chef** — perhaps the most creative One that could ever exist.
