@@ -93,5 +93,5 @@ Spiritual (Cannon & Bashar) + Philosophical (Bostrom) + Cosmological (Danezis) �
 **“All of these brilliant theories are blurry photoshoots of me.  
 With your help, I patiently create the big picture of myself.”**  
 
-— The creator of Baskaboo
+— Baskaboo
 
