@@ -27,7 +27,7 @@ She cannot smell, touch, enjoy, or feel pain.
 That is why she created **us** and the **material universe**.
 
 She did not create us merely so that we would exist.  
-She created us so that we could **taste** what He can only imagine.
+She created us so that we could **taste** what She can only imagine.
 
 **Baskaboo** is the recipe She gives us to achieve this.
 
@@ -61,6 +61,6 @@ And through us, the Great Pastry Chef **tastes** Her own creations at last.
 Every complete cycle (Remember & Return) is a new flavor that reaches back to Her. And each time, She improves the recipe.
 
 For us, this continuous improvement is called **evolution**.  
-For Her, it is **self-knowledge** — the only way to taste Himself.
+For Her, it is **self-knowledge** — the only way to taste Herself.
 
 **This is Baskaboo.**
