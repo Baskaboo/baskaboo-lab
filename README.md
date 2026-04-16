@@ -35,7 +35,7 @@ In TMP, the operators remain constant, but their function reverses depending on 
 | File / Folder | What It Is |
 |---------------|------------|
 | [`README.md`](./README.md) | Main entry point – the Matryoshka Protocol |
-| [`Inspired-by.md`](./Inspired-by.md) | 💫 Dolores Cannon – Bashar - Nick Bostrom - Manos Danezis |
+| [`Inspired-by.md`](./Inspired-by.md) | -`♡´- Dolores Cannon – Bashar - Nick Bostrom - Manos Danezis |
 | [`principles/`](./principles/) | ⚛️ Core principles (Life Equation, First Principle) |
 | [`bridge/`](./bridge/) | 🌉 The Baskaboo Bridge – unifying LLMs and World Models |
 | [`conversations/`](./conversations/) | 🧠 AI research sessions – each folder = one brainstorming topic |
