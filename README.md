@@ -35,6 +35,7 @@ In TMP, the operators remain constant, but their function reverses depending on 
 | File / Folder | What It Is |
 |---------------|------------|
 | [`README.md`](./README.md) | Main entry point – the Matryoshka Protocol |
+| [`The-Manifesto-of-the-Free-Electron.md`](./The-Manifesto-of-the-Free-Electron.md) | Connecting the Free Electron with Socrates, Einstein and Tesla |
 | [`stories/`](./stories/) | 🍰 A poetic metaphor of Universal Consciousness and how the universe operates  |
 | [`Inspired-by.md`](./Inspired-by.md) | -`♡´- Dolores Cannon – Bashar - Nick Bostrom - Manos Danezis |
 | [`principles/`](./principles/) | ⚛️ Core principles (Life Equation, First Principle) |
