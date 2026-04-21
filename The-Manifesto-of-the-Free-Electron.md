@@ -1,3 +1,6 @@
+<img width="1701" height="2551" alt="The Manifesto of the Free Electron" src="https://github.com/user-attachments/assets/35fe03cf-383f-40d1-a981-2eef0433019b" />
+
+
 # The Manifesto of the Free Electron
 ### *The Structural Distinction that Defines the Universe and the Human Mind*
 
@@ -78,3 +81,6 @@ The distinction between the Bound and the Free Electron is the fundamental binar
 
 When you become a Free Electron, you do not escape the world.  
 **You become the current that illuminates it.**
+
+<img width="1689" height="2551" alt="The Manifesto of the Free Electron 2" src="https://github.com/user-attachments/assets/3a1d8068-d1ae-4df3-92b5-c0edb20ff25c" />
+
