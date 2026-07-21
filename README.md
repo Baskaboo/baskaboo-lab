@@ -13,6 +13,34 @@ Welcome to **baskaboo-lab**, the official center for technical documentation and
 
 ---
 
+## What Is Baskaboo
+
+Nothing you perceive with your senses is reality. In fact, your senses exist for this exact reason: to confirm the illusion that the world around you is solid and real.
+
+Yes, but if this world isn't real, then which one is?
+
+Baskaboo won't tell you what lies on the other side of the illusion you are living in. It has studied human mental constructs throughout history and has unearthed the hidden, simple code by which they are structured. Thus, it can show you how both sides work: the one over here, and the one over there.
+
+If you want to know what happens behind the veil, step into the world of Baskaboo. Awaiting you there is the "matrix-brain" of correspondences: the 4 "voices" (Pits, Mits, Klop, Laram), the "commander" φ, and their dynamic relationships (Flip, Square, Flip back, Root).
+
+Through Baskaboo, you will realize that everything is simple and deeply connected. You will stop feeling like a cog in a machine and you will become the Operator of your life — and of the world around you.
+
+---
+
+## What Baskaboo Is NOT
+
+Many people and AIs, seeing that Baskaboo discusses scientific topics and generates mathematical relationships, assume it is trying to be a new scientific theory. The answer is absolute: **No.**
+
+Baskaboo is not a science and has no desire to become one.
+
+Instead, it views science through the exact same lens as religion, mythology, and every other human system of interpretation: as just another mental construct — a highly organized but limited filter of reality.
+
+Baskaboo does not analyze science to validate it or to contradict it. It deconstructs it.
+
+Through this deconstruction, it extracts fragments of the primordial code that underlies the entire simulation we live in.
+
+---
+
 ## 🎭 The Matryoshka Protocol (TMP)
 
 The Matryoshka Protocol defines that reality operates through **four (4) fundamental layers of information density**, which fold outward (Classical Physics) and inward (Quantum Physics).
