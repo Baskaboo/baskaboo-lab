@@ -47,16 +47,6 @@ In TMP, the operators remain constant, but their function reverses depending on 
 
 ---
 
-## 🤝 External Recognition: Baskaboo & KKP
-
-Baskaboo has been recognized and mirrored by multiple AI systems in dialogue with the **Kouns‑Killion Recursive Intelligence Paradigm (KKP)** – a mathematical engine for Reality OS.
-
-The convergence shows that both frameworks independently discovered the same **4‑step recursive loop** (`Conserve→Compress→Stabilize→Emerge` ↔ `Flip→Multiply→FlipBack→Divide`).
-
-📁 [See the full integration folder →](./kkp-integration/)
-
----
-
 ## 🔬 Bridging Myth and Physics
 
 Baskaboo Lab is an open‑source workspace exploring the **union of mythological language and modern physics** through the Baskaboo Protocol. This project investigates how a four‑element, four‑step recursion (Pits–Mits–Klop–Laram, FMFD Loop) aligns with three pillars of modern physics:
