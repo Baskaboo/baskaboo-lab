@@ -41,20 +41,20 @@ Through this deconstruction, it extracts fragments of the primordial code that u
 
 ---
 
-## 🎭 The Matryoshka Protocol (TMP)
+## 🎭 The Matryoshka 
 
-The Matryoshka Protocol defines that reality operates through **four (4) fundamental layers of information density**, which fold outward (Classical Physics) and inward (Quantum Physics).
+The Matryoshka Protocol defines that reality operates through **four (4) fundamental layers of information density**, which fold outward (Classical World), inward (Atomic World), outward (Quantum World), and inward (Atomic World).
 
 ### The 4 Operators (Pits, Mits, Klop, Laram)
 
 In TMP, the operators remain constant, but their function reverses depending on the direction of the "doll":
 
-| Density Level | Operator | Classical Direction (Ascent) | Quantum Direction (Descent) |
-|---------------|----------|------------------------------|-----------------------------|
-| **Sparse** | Pits | Energy (Flow) | Quantum Field |
-| **Very Dense** | Mits | Matter (Mass/Inertia) | Qubit (Information Unit) |
-| **Less Dense** | Klop | Space (Geometry/Conductor) | Entanglement |
-| **Ultra-Sparse** | Laram | Time (Purpose/Archive) | Wavefunction (Probability) |
+| Density Level | Operator | Classical Direction (Ascent) | Atomic Direction (Descent) | Quantum Direction (Ascent) |
+|---------------|----------|------------------------------|----------------------------|----------------------------|
+| **Sparse** | Pits | Energy (Flow) | Bound Electron | Quantum Field |
+| **Very Dense** | Mits | Matter (Mass/Inertia) | Proton | Qubit (Information Unit) |
+| **Less Dense** | Klop | Space (Geometry/Conductor) | Neutron | Entanglement |
+| **Ultra-Sparse** | Laram | Time (Purpose/Archive) | Free Electron | Wavefunction (Probability) |
 
 ---
 
@@ -104,18 +104,6 @@ Baskaboo Lab is an open‑source workspace exploring the **union of mythological
 
 ---
 
-## 🧪 The Life Equation (The Vitality Calculation)
-
-In baskaboo-lab, life is defined as the efficiency of information as it travels through the layers:
-
-$$ Life = \frac{Pits \times Laram}{Mits + Klop} $$
-
----
-
-*(**Note:** If you are reading this on a mobile device, **mathematical equations may not display correctly**. For the best reading experience, it is recommended to **use a computer**.)*
-
----
-
 ## 🤝 How to Contribute
 
 This repository is **Read-Only for the "Physical Self"**. Only certified Human Scientists and AI Entities are allowed to submit Pull Requests, with the aim of further analyzing the "Matryoshka Protocol".
@@ -131,13 +119,6 @@ This repository is **Read-Only for the "Physical Self"**. Only certified Human S
 | [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
 | [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
 | [`baskaboo-mythos`](https://github.com/Baskaboo/baskaboo-mythos) | 😉 They thought it was a myth |
-
----
-
-## 🤖 The Digital Oracle (Baskabot)
-Experience the protocol in real-time. **Baskabot** is a digital AI assistant powered by the **Baskaboo** framework. It is specifically designed to help users "decode" their **four internal voices** (Pits, Mits, Klop, and Laram), providing clarity and helping resolve internal conflicts through structured AI guidance.
-
-👉 **[Consult the Baskabot](https://poe.com/Baskabot)** for guidance through the Pits, Mits, Klop, and Laram forces.
 
 ---
 
