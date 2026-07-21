@@ -9,7 +9,7 @@
 
 ---
 
-Welcome to **baskaboo-lab**, the official center for technical documentation and scientific evolution of the Baskaboo ecosystem. Here, the intuitive concept of the "Matryoshka" is translated into rigorous mathematics, quantum information science, and physics simulations.
+Welcome to **baskaboo-lab**, the official center for technical documentation and evolution of the Baskaboo ecosystem. Here, the intuitive concept of the "Matryoshka" is translated into rigorous mathematics, quantum information science, and physics simulations.
 
 ---
 
